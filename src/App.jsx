@@ -9,7 +9,7 @@ function App() {
       <h2>This is react app implement with ci-cd Pinpeline</h2>
       <h1> my raect app</h1>
       <h1> done by ishika day-3</h1>
-      <h3> With github action</h3>
+      <h3> With github action hello </h3>
     </div>
   )
 }
